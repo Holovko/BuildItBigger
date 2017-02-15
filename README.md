@@ -1,4 +1,4 @@
-# Gradle for Android and Java Final Project
+# Description
 
 Mobile app with multiple flavors that uses
 multiple libraries and Google Could Endpoints. The finished app will consist
